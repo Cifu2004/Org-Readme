@@ -1,6 +1,6 @@
 # Burned Games
 
-Bla bla bla
+We are a class of university students at <a href="https://www.citm.upc.edu/">CITM (Centre de la Imatge i la Tecnologia Multimèdia)</a> , and for our third-year project, we are developing a video game based on Warhammer 40K. This project will be built using the custom game engine we developed in the previous semester: <a href="https://github.com/Burned-Games/Coffee-Engine">Coffee Engine</a>.
 
 <h2>Teams & Members:</h2> 
 
