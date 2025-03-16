@@ -16,14 +16,14 @@ We are a class of university students at <a href="https://www.citm.upc.edu/">CIT
     Carlos Gonzalez (Lead Artist): <a href="https://github.com/gosu00">gosu00</a>
   </li>
   <li>
-    Raül Sánchez (Lead Producer): <a href="https://github.com/Galycon">Galycon</a>
+    Raül Sánchez (Lead Designer): <a href="https://github.com/Galycon">Galycon</a>
   </li>
 </ul>
 
 ### Code:
 <ul>
   <li>
-    Guillem Alqueza (Gameplay Programmer): <a href="https://github.com/guillemalqueza">guillemalqueza</a>
+    Guillem Alqueza (Core Programmer): <a href="https://github.com/guillemalqueza">guillemalqueza</a>
   </li>
   <li>
     Rodrigo Álvarez (AI Programmer): <a href="https://github.com/Rodrigomoize">Rodrigomoize</a>
